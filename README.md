@@ -3,7 +3,7 @@
 ## 👩‍💻 About Me
 - 💻: M.Sc. Computer Science and Engineering @ Politecnico di Milano :it:.
 - 💻: Computer Engineering @ Escola Politécnica da Universidade de São Paulo :brazil:.
-- ⚡: Master's Thesis resulted in a [published manuscript](https://repository.eannconf.org/2025/abstr/25bd04525.html) and it was supported by the Project “AI for Sustainable Port-city logistics” funded by the European Union - Next Generation EU Program 🇪🇺 and made in colaboration between Politecnico di Milano (Milan, Italy) and the National Research Council, Institute of Marine Engineering (Genova, Italy).
+- ⚡: Master's Thesis resulted in a [published manuscript](https://link.springer.com/chapter/10.1007/978-3-031-96199-1_16) and it was supported by the Project “AI for Sustainable Port-city logistics” funded by the European Union - Next Generation EU Program 🇪🇺 and made in colaboration between Politecnico di Milano (Milan, Italy) and the National Research Council, Institute of Marine Engineering (Genova, Italy).
 - 🤖: Former member and team captain of [@ThundeRatz ](https://github.com/ThundeRatz), Robotics Team of Escola Politénica da USP (Engineering School of the University of São Paulo).
 - 🎓: Former member and Vice-President of [BRASA Milão](https://www.instagram.com/brasamilao/), the Brazilian Student Association of Milan.
 - 👥: Highly interested in using Data Science and Artificial Intelligence to elaborate business decisions and to drive inovation.
